@@ -1,3 +1,7 @@
+/*
+Pthread librari API usage program.
+usage: g++ pthread.cpp -lpthread
+*/
 
 #include <stdlib.h>
 #include <pthread.h>
